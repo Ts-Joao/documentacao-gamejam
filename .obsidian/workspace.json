@@ -11,14 +11,14 @@
             "id": "0972cfbf5b987696",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "02_Mundo/02.2_Personagens/Paje_Andarilho.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Paje_Andarilho"
             }
           }
         ]
@@ -201,8 +201,9 @@
   },
   "active": "0972cfbf5b987696",
   "lastOpenFiles": [
-    "02_Mundo/02.2_Personagens/Paje_Andarilho.md",
+    "99_Templates/Template_Inimigo.md",
     "99_Templates/Template_NPC.md",
+    "02_Mundo/02.2_Personagens/Paje_Andarilho.md",
     "99_Templates/Template_Mecanica.md",
     "Untitled.md",
     "Untitled",
@@ -212,7 +213,6 @@
     "01_Mecanicas/Untitled.base",
     "99_Templates/Template_Aldeia.md",
     "01_Mecanicas/01.1_Ataques",
-    "99_Templates/Template_Inimigo.md",
     "02_Mundo/02.3_Personagens/Untitled.md",
     "02_Mundo/02.4_Biomas/Untitled.md",
     "02_Mundo/02.2_Personagens",
