@@ -13,4 +13,4 @@ objetivo: Informar ao jogador sobre as notícias de aldeias próximas e as não 
 * **Segredo/Passado:**
 
 ## 💬 Diálogos e Cenas
-* [[Dialogo_NomeDoNPC_Encontro1]]
+* [[Enc01_Paje_Andarilho]]

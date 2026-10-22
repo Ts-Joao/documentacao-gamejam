@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Mundo/02.2_Personagens/Paje_Andarilho.md",
+                "file": "03_Dialogos/Enc01_Paje_Andarilho.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paje_Andarilho"
+              "title": "Enc01_Paje_Andarilho"
             }
           }
         ]
@@ -201,9 +201,10 @@
   },
   "active": "0972cfbf5b987696",
   "lastOpenFiles": [
+    "02_Mundo/02.2_Personagens/Paje_Andarilho.md",
+    "03_Dialogos/Enc01_Paje_Andarilho.md",
     "99_Templates/Template_Inimigo.md",
     "99_Templates/Template_NPC.md",
-    "02_Mundo/02.2_Personagens/Paje_Andarilho.md",
     "99_Templates/Template_Mecanica.md",
     "Untitled.md",
     "Untitled",
