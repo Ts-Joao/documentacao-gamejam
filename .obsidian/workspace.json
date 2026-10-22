@@ -11,10 +11,14 @@
             "id": "0972cfbf5b987696",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -195,18 +199,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a93555a42ded8928",
+  "active": "0972cfbf5b987696",
   "lastOpenFiles": [
+    "02_Mundo/02.2_Personagens/Paje_Andarilho.md",
+    "99_Templates/Template_NPC.md",
+    "99_Templates/Template_Mecanica.md",
+    "Untitled.md",
+    "Untitled",
     "Untitled.base",
     "01_Mecanicas/01.1_Ataques/Sistema_Genero.md",
     "2026-10-22.md",
-    "99_Templates/Template_Mecanica.md",
     "01_Mecanicas/Untitled.base",
-    "Untitled.md",
     "99_Templates/Template_Aldeia.md",
     "01_Mecanicas/01.1_Ataques",
     "99_Templates/Template_Inimigo.md",
-    "99_Templates/Template_NPC.md",
     "02_Mundo/02.3_Personagens/Untitled.md",
     "02_Mundo/02.4_Biomas/Untitled.md",
     "02_Mundo/02.2_Personagens",
@@ -218,7 +224,6 @@
     "99_Templates",
     "03_Dialogos",
     "02_Mundo/02.2_Inimigos",
-    "02_Mundo/02.1_Aldeias",
     "Untitled.canvas",
     "Welcome.md",
     "NPC_Guarda_Bruno.md"

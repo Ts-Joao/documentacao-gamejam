@@ -1,5 +1,6 @@
 ---
 status:
+nome:
 tipo:
 ocupacao:
 localizacao:
