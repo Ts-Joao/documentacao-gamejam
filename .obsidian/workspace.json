@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "af99a61fc7b495ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "34ac676ec36466d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0972cfbf5b987696",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89d371d746f48c24",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4341b86aace990b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "175738a28bc74085",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ca151beaba7b1078",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "531ff1fecc9da80e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b112b0be1fd5b671",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f6d198f0300ddb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec55ff7577a06fbc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "99_Templates/Template_Mecanica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "392ad62e7e605d07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "99_Templates/Template_Mecanica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9c749f7f04203934",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e141a97d8608d66e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c86ae905d762bd8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "99_Templates/Template_Mecanica.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "a93555a42ded8928",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a93555a42ded8928",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "01_Mecanicas/01.1_Ataques/Sistema_Genero.md",
+    "2026-10-22.md",
+    "99_Templates/Template_Mecanica.md",
+    "01_Mecanicas/Untitled.base",
+    "Untitled.md",
+    "99_Templates/Template_Aldeia.md",
+    "01_Mecanicas/01.1_Ataques",
+    "99_Templates/Template_Inimigo.md",
+    "99_Templates/Template_NPC.md",
+    "02_Mundo/02.3_Personagens/Untitled.md",
+    "02_Mundo/02.4_Biomas/Untitled.md",
+    "02_Mundo/02.2_Personagens",
+    "02_Mundo/02.3_Biomas/Untitled.md",
+    "02_Mundo/02.1_Aldeias/Aldeia A.md",
+    "02_Mundo/02.3_Biomas",
+    "02_Mundo/02.1_Aldeias/Untitled.base",
+    "rotas/Inicio.md",
+    "99_Templates",
+    "03_Dialogos",
+    "02_Mundo/02.2_Inimigos",
+    "02_Mundo/02.1_Aldeias",
+    "Untitled.canvas",
+    "Welcome.md",
+    "NPC_Guarda_Bruno.md"
+  ]
+}
